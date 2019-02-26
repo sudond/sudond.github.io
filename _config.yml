@@ -8,7 +8,7 @@ locale:       "en"
 # About/contact
 author:
   name:       Author name
-  url:        http://yourhomepage.com 
+  url:        http://sudond.github.com 
 
 # Gems
 gems:
